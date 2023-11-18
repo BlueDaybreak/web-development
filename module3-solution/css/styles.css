@@ -1,0 +1,110 @@
+body {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  margin: 0;
+}
+
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 {
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.75;
+}
+
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
+}
+
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+  background-color: white;
+}
+
+.navbar-toggle {
+  border: 3px solid black;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: black;
+}
+
+#nav-list {
+  background-color: silver;
+  border: 3px solid black;
+  border-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#nav-list a {
+  color: black;
+  text-align: center;
+border-bottom: 3px solid black;
+}
+
+#nav-list a:hover {
+  background-color: gray;
+}
+
+#main-content {
+  width: 100%;
+  padding: 0;
+}
+
+.row {
+  width: 100%;
+  margin: 0;
+}
+
+.row > div {
+  padding: 0;
+}
+
+#h1-menu {
+  text-align: center;
+  margin: 1em auto;
+}
+
+.menu-event {
+  margin: 20px;
+  background-color: gray;
+}
+
+.menu-title {
+  text-align: center;
+  margin: 0;
+  padding: 1em;
+}
+
+.menu-description {
+  padding: 0 2em 2em 2em;
+  margin: 0;
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+@media (max-width: 767px) {
+}
