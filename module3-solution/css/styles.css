@@ -54,7 +54,7 @@ body {
 
 #nav-list a {
   color: black;
-  text-align: center;
+  /* text-align: center; */
   border-bottom: 3px solid black;
 }
 
@@ -86,7 +86,6 @@ body {
 }
 
 .menu-title {
-  text-align: center;
   margin: 0;
   padding: 1em;
 }
@@ -94,16 +93,4 @@ body {
 .menu-description {
   padding: 0 2em 2em 2em;
   margin: 0;
-}
-
-@media (min-width: 1200px) {
-}
-
-@media (min-width: 992px) and (max-width: 1199px) {
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-}
-
-@media (max-width: 767px) {
 }
