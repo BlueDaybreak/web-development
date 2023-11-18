@@ -55,7 +55,7 @@ body {
 #nav-list a {
   color: black;
   text-align: center;
-border-bottom: 3px solid black;
+  border-bottom: 3px solid black;
 }
 
 #nav-list a:hover {
@@ -77,7 +77,6 @@ border-bottom: 3px solid black;
 }
 
 #h1-menu {
-  text-align: center;
   margin: 1em auto;
 }
 
